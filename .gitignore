@@ -8,3 +8,7 @@ build/
 
 AGENTS.md
 CLAUDE.md
+.vercel
+
+# prototype runtime data
+plans/spikes/**/data/
