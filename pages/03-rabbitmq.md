@@ -99,7 +99,7 @@ class: gap
 
 <div class="dc mono">store.mjs · node:sqlite<br>DatabaseSync.prepare(sql).get() · a setInterval() renews the claim every 10 s</div>
 
-<<< @/plans/spikes/chat-on-dcmq/dcmq/store.mjs#slide js {5,7|4,6,8,9}
+<<< @/plans/spikes/chat-on-dcmq/dcmq/store.mjs#slide js {4,6|3,5,7,8}
 
 <div class="caption">Killed mid-handler: back with deliveries = 2. Three processes, 300 messages, no duplicates.</div>
 
