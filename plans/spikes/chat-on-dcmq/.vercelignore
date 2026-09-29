@@ -1,0 +1,15 @@
+chat/data
+dcmq/data
+**/experiments
+experiments
+chat/test.mjs
+chat/live.mjs
+chat/cluster.mjs
+chat/worker.mjs
+dcmq/test.mjs
+dcmq/bench.mjs
+dcmq/child.mjs
+dcmq/worker-consumer.mjs
+dcmq/edges.mjs
+.env*
+.vercel
