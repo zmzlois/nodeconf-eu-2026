@@ -1,0 +1,6 @@
+# upload the deck source (plans/ is needed: code slides import from plans/spikes) but never secrets or runtime data
+node_modules
+dist
+**/.vercel
+**/.env*
+**/data
